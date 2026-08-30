@@ -1,7 +1,7 @@
 # A1: Predicting Car Price
 
 **Student:** [TLucja Wojtowicz st127262]
-**Course:** AT82.03: Machine Learning
+**Github:** https://github.com/lucjawojtowicz/Car-Priece-Prediction/tree/main/app
 
 Machine Learning assignment (AT82.03) - a web-based car price prediction system 
 
